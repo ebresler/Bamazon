@@ -6,7 +6,7 @@ Amazon-like storefront using MySQL and Node.
 The app takes in orders from customers and depletes stock from the store's inventory.  This application uses the MySQL and Inquirer npm packages.
 
 
-### Customer View
+## Customer View
 
 1. From your Terminal, run the Node application called `bamazonCustomer.js`. Running this application will first display all of the items available for sale. Including the products' ids, names, and prices.
 
@@ -26,7 +26,7 @@ The app takes in orders from customers and depletes stock from the store's inven
 5. Finally the app prompts the user again to see if they wish to continue shopping or if they are done.
 
 
-#### Screenshots & Video of Working App for Customer View
+## Screenshots & Video of Working App for Customer View
 
 1. Here is what the working app looks like:
 
