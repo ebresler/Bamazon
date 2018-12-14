@@ -20,8 +20,6 @@ function start() {
     connection.query("SELECT item_id, product_name, price FROM products", function (error, results) {
         if (error) throw error;
 
-        // console.log(JSON.stringify(results, null, " ") + "\n\n=========================================================\n\n");
-
         console.log(results) + ("\n\n=========================================================\n\n");
         
         inquirer
