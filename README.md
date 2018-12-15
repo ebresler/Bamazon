@@ -25,6 +25,6 @@ The app takes in orders from customers and depletes stock from the store's inven
 5. Finally the app prompts the user again to see if they wish to continue shopping or if they are done.
 
 
-## Video of Working App for Customer View
+## Screenshots and Video of Working App for Customer View
 
-1. A video .mov demo of the Node application can be found in the repository
+1. A video (.mov) demo and screenshots of the Node application can be found in the repository.
